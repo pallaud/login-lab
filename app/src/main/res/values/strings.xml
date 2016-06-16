@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginLab</string>
+    <string name="login_text">Login. Here we go!</string>
+    <string name="email_hint">E-mail address</string>
+    <string name="password_hint">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="start">Start</string>
+    <string name="iForgotMyPassword">I forgot my password</string>
+    <string name="login">Login</string>
+    <string name="welcome_text">Welcome! Let\'s get started.</string>
+</resources>
